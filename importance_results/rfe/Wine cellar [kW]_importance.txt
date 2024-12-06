@@ -1,0 +1,11 @@
+Feature,RFE Ranking
+dewPoint,1
+windSpeed,2
+pressure,3
+apparentTemperature,4
+windBearing,5
+humidity,6
+temperature,7
+visibility,8
+precipIntensity,9
+precipProbability,10

@@ -1,0 +1,17 @@
+temperature
+apparentTemperature
+dewPoint
+windSpeed
+windBearing
+pressure
+humidity
+visibility
+Wine cellar [kW]
+Furnace 1 [kW]
+Furnace 2 [kW]
+temperature_x_pressure
+dewPoint_x_apparentTemperature
+windSpeed_x_dewPoint
+temperature_x_windSpeed
+dewPoint_x_pressure
+humidity_x_visibility
